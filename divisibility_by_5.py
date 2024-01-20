@@ -4,8 +4,13 @@
 # pseudocode
 
 # create a list of random number
+list_numbers = (105, 123, 135, 285, 356, 515, 1004, 1075, 3104)
 
-# checkif the number is divisible by 5
+# print the list of number
+print ("Given list:", list_numbers)
+print ("All number divisible by 5 are")
+
+# check if the number is divisible by 5
 
 # print all the list of number divisible by 5
 
