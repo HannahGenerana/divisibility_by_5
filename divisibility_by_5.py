@@ -11,6 +11,7 @@ print ("Given list:", list_numbers)
 print ("All number divisible by 5 are")
 
 # check if the number is divisible by 5
-
+for number in list_numbers:
+    if (number % 5) == 0:
 # print all the list of number divisible by 5
-
+      print (number)
